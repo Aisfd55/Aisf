@@ -1,5 +1,5 @@
 # Aisf
-{
+{https://www.apkmirror.com/apk/google-inc/chrome/chrome-119-0-6045-66-release/google-chrome-fast-secure-119-0-6045-66-2-android-apk-download/
     "1337x": {
         "anime_extra": "",
         "anime_keywords": "{title} {episode}",
